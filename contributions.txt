@@ -1,0 +1,35 @@
+CONTRIBUTIONS DU PROJET
+Gestion des notes des étudiants en Java
+
+----------------------------------------
+Ista
+----------------------------------------
+Travail réalisé :
+- Création de la classe Etudiant.java pour représenter les étudiants et leurs notes
+- Implémentation de la classe GestionCSV.java pour lire les données depuis le fichier etudiants.csv
+- Développement de la classe ValidationUtils.java pour vérifier la validité des données
+- Participation à la rédaction du README.md (documentation du projet)
+
+----------------------------------------
+Jean Robert
+----------------------------------------
+Travail réalisé :
+- Développement de la classe GestionResultats.java pour calculer les moyennes des étudiants
+- Implémentation de la classe ClassementEtudiants.java pour trier les étudiants
+- Création de la classe Main.java pour exécuter le programme
+- Génération du fichier resultats.csv contenant les résultats finaux
+- Redaction du fichier contributions.txt
+
+----------------------------------------
+Organisation du travail
+----------------------------------------
+- Travail collaboratif avec Git et GitHub
+- Répartition des tâches pour éviter les conflits
+- Utilisation du cycle :
+  Pull → Travailler → Commit → Push
+
+----------------------------------------
+Objectif
+----------------------------------------
+Assurer une bonne organisation du travail, une collaboration efficace
+et un développement structuré du projet.
