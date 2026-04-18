@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         String fichierEntree = "data/etudiants.csv";
-        String fichierSortie = "output/resultats.csv";
+        String fichierSortie = "data/resultats.csv";
 
         try {
             List<Etudiant> etudiants = GestionCSV.lireEtudiantsDepuisCSV(fichierEntree);
